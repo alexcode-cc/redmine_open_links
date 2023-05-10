@@ -40,8 +40,12 @@ This plugin does not require any additional actions or configuration.
 
 Alex Codeing, [github.com/alexcode-cc](https://github.com/alexcode-cc)
 
-The origin version clone from [Undev's redmine_open_links_in_new_window] (https://github.com/Undev/redmine_open_links_in_new_window)
+## Origin Maintainers 
+
+The origin version clone from [Undev's redmine_open_links_in_new_window](https://github.com/Undev/redmine_open_links_in_new_window)
+
 Akzhan Abdulin, [github.com/akzhan](https://github.com/nodecarter)
+
 Danil Tashkinov, [github.com/nodecarter](https://github.com/nodecarter)
 
 ## License
