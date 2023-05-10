@@ -8,7 +8,7 @@
 		var pass = true;
 
 		// Requirements
-		if (-1 != this.className.indexOf('wiki-anchor')) pass = false;
+		if (-1 != this.className.indexOf('wiki-page')) pass = false;
 
 		if (pass)
 		{
